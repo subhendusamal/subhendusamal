@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @subhendusamal
+- 👋 Hi, I’m @subhendusamal.
 - 👀 I’m interested in frontend.
 - 🌱 I’m currently learning Git & Github.
